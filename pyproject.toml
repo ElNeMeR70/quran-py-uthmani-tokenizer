@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-uthmani-tokenizer"
+version = "1.0.0"
+description = "Uthmani Script Orthographic Tokenizer & Diacritic Parser (محلل الرسم العثماني وتقطيع الكلمات القرآنية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
